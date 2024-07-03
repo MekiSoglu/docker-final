@@ -37,3 +37,5 @@ S
 Q.idea/sonarlint/securityhotspotstore/f/1/f1bf400bc0784549511ea07030d3a798eb8c0511,b/8/b8fc637bd0d93bbd9c2ab2982ac24006876294ba
 ]
 -.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e
+G
+demo/docker-compose.yml,f/0/f09725760844fe6887f23864b9643d08aefcfa04

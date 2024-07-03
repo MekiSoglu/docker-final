@@ -1,0 +1,5 @@
+services:
+  meki:
+    image: docker-final/devops-integration:latest
+    ports:
+      - "8080:80"
